@@ -1,0 +1,4 @@
+GraphQL schemas are defined in a special language, graphql svhema definition language, and has three root types;
+1. Query
+2. Mutation
+3. Subscription
